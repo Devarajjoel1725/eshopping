@@ -1,0 +1,6 @@
+server:
+  port: 1725
+
+Spring:
+  application:
+    name: Product Microservice
